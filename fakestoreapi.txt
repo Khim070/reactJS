@@ -1,0 +1,4 @@
+Get all products: https://fakestoreapi.com/products
+Get a single products: https://fakestoreapi.com/products/1
+Get all categories: https://fakestoreapi.com/products/categories
+Get specific categories: https://fakestoreapi.com/products/category/jewelery
